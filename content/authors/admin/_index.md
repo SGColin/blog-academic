@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yixiong Colin Gao
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yixiong
+last_name: Gao
 
 # Status emoji
 status:
