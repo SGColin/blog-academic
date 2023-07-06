@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.E. in Computer Science and Technology
-      institution: Hangzhou Dianzi University
-      year: 2020-2024
+    - course: B.E. in Computer Science & Technology
+      institution: Hangzhou Dianzi University (HDU)
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,7 +65,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv-yixionggao.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-I an Yixiong Gao (高义雄), a junior student in the Hangzhou Dianzi University.
+I an Yixiong Gao(高义雄), a junior student in the Hangzhou Dianzi University.
 {style="text-align: justify;"}
