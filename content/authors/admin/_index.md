@@ -48,8 +48,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yixionggao/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sgcolin
   - icon: zhihu
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.zhihu.com/people/sgcolin
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
