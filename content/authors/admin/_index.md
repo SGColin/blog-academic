@@ -22,13 +22,13 @@ organizations:
     url: https://www.hdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algorithms Design and Analysis
+  - Algorithmic Mechanism Design
+  - Combinatorial Optimization
 
 # Education to show in About widget
 education:
@@ -45,15 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:sgcolin@163.com
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/yixionggao/
   - icon: github
     icon_pack: fab
     link: https://github.com/sgcolin
-  - icon: zhihu
-    icon_pack: fab
-    link: https://www.zhihu.com/people/sgcolin
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -68,5 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-I an Yixiong Gao(高义雄), a junior student in the Hangzhou Dianzi University.
+I an Yixiong Gao (高义雄) , a junior student at Hangzhou Dianzi University. I am broadly interested in theoretical computer science, particularly in algorithmic mechanism design and game theory. 
+
 {style="text-align: justify;"}
