@@ -62,6 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-I an Yixiong Gao (高义雄) , a junior student at Hangzhou Dianzi University. I am broadly interested in theoretical computer science, particularly in algorithmic mechanism design and game theory. 
+I an Yixiong Gao (高义雄) , a senior student at Hangzhou Dianzi University. I am broadly interested in theoretical computer science, particularly in algorithmic mechanism design and game theory. 
 
 {style="text-align: justify;"}
